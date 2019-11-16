@@ -1,0 +1,13 @@
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\bin\Debug\Prodavnica1.accdb
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\bin\Debug\projekat2_tvp.exe.config
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\bin\Debug\projekat2_tvp.exe
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\bin\Debug\projekat2_tvp.pdb
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.csprojAssemblyReference.cache
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.Form1.resources
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.Properties.Resources.resources
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.csproj.GenerateResource.cache
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.csproj.CoreCompileInputs.cache
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.exe
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.pdb
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.DodajArtikal.resources
+C:\Users\legaz\source\repos\projekat2_tvp\projekat2_tvp\obj\Debug\projekat2_tvp.Vreme.resources
